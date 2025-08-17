@@ -2,9 +2,6 @@
 
 An **innovative AI-powered research assistant Chrome extension** designed to **enhance research efficiency** directly within the browser.
 This project demonstrates **full-stack AI integration** using **Chrome Extension frontend + Spring Boot backend + Google Gemini API**.
-
-It’s a **unique portfolio project** showcasing modern development practices and can make your resume stand out to interviewers.
-
 ---
 
 ## ✨ Features
